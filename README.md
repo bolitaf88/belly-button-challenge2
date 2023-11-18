@@ -35,6 +35,7 @@ This codebase contains a web application designed to visualize and explore data 
 - **Other Functions**:
   - `updateDemographicInfo`: Updates and displays demographic information.
   - `prepBarData`: Prepares data for the bar chart display.
+    ![Visual](https://github.com/bolitaf88/belly-button-challenge2/blob/main/images/belly_button1.png)
 
 ## Usage
 
